@@ -39,3 +39,4 @@ See audit reports [here](https://github.com/AztecProtocol/aztec-security/tree/ma
 | Set Bridge        | Solidified          | [link](https://github.com/AztecProtocol/aztec-security/blob/main/Audits/Audit%20Report%20-%20Aztec%20Set%20Bridge.pdf)                  |
 | Rollup Subsidy    | Solidified          | [link](https://github.com/AztecProtocol/aztec-security/blob/main/Audits/Audit%20Report%20-%20Aztec%20Subsidy%20Contract.pdf)            |
 
+
